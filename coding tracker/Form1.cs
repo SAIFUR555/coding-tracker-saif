@@ -11,5 +11,10 @@ namespace coding_tracker
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
